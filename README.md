@@ -15,5 +15,5 @@ This should output `spelling`.
 
 # License
 
-Check the [LGPL license file][LICENSE].
+Check the [LGPL license file](LICENSE).
 
